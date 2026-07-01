@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6v0228/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0228/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧智薛鳳規等道俗造像記
+  identifiers:
+    krp: KR6v0228
+    cbeta: I01n0029
+    cbeta_old_id: I01n0029
+    authorityid: CA0008164
+    json_key: I0029
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0029.xml
+    old_id: I01n0029
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0228_000-I.yaml, hash: 'sha256:d3035f02d830e635a434f2f3eb49bb73ba7d2c53ffd85020f25784542686581f'}
+  - {seq: 1, filename: KR6v0228_001-I.yaml, hash: 'sha256:4fee86f3deda0d3b23c362443c924476e8f65afa1d9578b3b01ddd52a06b2b8c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0228_000-I.markers.yaml, hash: 'sha256:37e8eb3d556c65ee6cf40a10bb713170aa98588b412b1a054c3e8e794e6da6c4'}
+  - {seq: 1, role: markers, filename: assets/KR6v0228_001-I.markers.yaml, hash: 'sha256:dedf37c874a413cb574a2e5b213be5634f5cc966dfe3745e9fbf444e698660de'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0228_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 3354
+  label: 僧智薛鳳規等道俗造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0228_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一　碑陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0228_I_001-mulu-2
+    span:
+    - body
+    - 1286
+    - 1286
+  label: 之二　碑陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0228_I_001-mulu-3
+    span:
+    - body
+    - 2668
+    - 2668
+  label: 之三　碑側
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0228_I_001-mulu-4
+    span:
+    - body
+    - 3048
+    - 3048
+  label: 之四　碑側
+  type: mulu
+  level: 1
+hash: sha256:5c801672980f7fd7097305115bc5490daa19f67cc36e929bdb00f0dce62cf78a

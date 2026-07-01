@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0228/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 僧智薛鳳規等道俗造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0029.xml
+    old_id: I01n0029
+hash: sha256:d3035f02d830e635a434f2f3eb49bb73ba7d2c53ffd85020f25784542686581f
