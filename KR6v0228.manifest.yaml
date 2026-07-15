@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0228/v1
 canonical_location: https://kanripo.org/bkk/KR6v0228/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 僧智薛鳳規等道俗造像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0228_000.yaml, hash: 'sha256:d3035f02d830e635a434f2f3eb49bb73ba7d2c53ffd85020f25784542686581f'}
-  - {seq: 1, filename: KR6v0228_001.yaml, hash: 'sha256:4fee86f3deda0d3b23c362443c924476e8f65afa1d9578b3b01ddd52a06b2b8c'}
+  - {seq: 1, filename: KR6v0228_001.yaml, hash: 'sha256:31c8d1d0347cdb9da503291287fed7687d3e6d26a7f5e9ba9e9b4a93f63d7bdb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0228_000.markers.yaml, hash: 'sha256:34482339de0fa8c7ce687dff24061745bbee67e085745052f5588e7f61222dbf'}
-  - {seq: 1, role: markers, filename: assets/KR6v0228_001.markers.yaml, hash: 'sha256:f48712ba7aeb5e337e348b315db2c594fa96b7ea697191b58ec9bfbb9766aae2'}
+  - {seq: 1, role: markers, filename: assets/KR6v0228_001.markers.yaml, hash: 'sha256:7e9c6c94ae0202718165b959fba705426cd5d65297b280c25d30fba522eeefd9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: 之四　碑側
   type: mulu
   level: 1
-hash: sha256:5ba57d292df6205992f657cac7179ae7250e825023ec5e70b79b359bb0cf37bc
+hash: sha256:b3cd4f48231e27ee6b640d634add28696172d961cba9fdf57cc08385e45d1fd9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
